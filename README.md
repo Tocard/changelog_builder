@@ -30,6 +30,6 @@ if this value match
   
   This si an example of how it's look like.
   
-  https://github.com/Tocard/changelog_builder/blob/master/changelog_master/changelog.adoc
+  https://github.com/Tocard/changelog_builder/blob/master/changelog_sample/changelog.adoc
   
   

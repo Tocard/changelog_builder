@@ -1,0 +1,28 @@
+:uri-pr: https://github.com/Tocard/changelog_builder/pulls
+:uri-jira: https://jira/browse/
+:uri-icon:https://github.com/Tocard/changelog_builder/logo_jira/raw
+:uri-version: https://github.com/Tocard/changelog_builder/browse?at=refs%2Ftags%2F
+:OPTION: options='header', width="100%, cols='^m,^m,^m,^m,^'"
+= Changelog
+
+== Version en cours de Developpement
+[{OPTION}]
+|===
+a|Date a| Commentaire a| Type a| Ticket a| PR
+
+a| 14/01/19 a| Evol : Add some new stuff  a| image:{uri-icon}/evol.svg[] a| {uri-jira}/BORD-1148[BORD-1148]  a| {uri-pr}/NPR[PR NPR]
+a| 09/01/19 a| Evol : Upgrade bitbucket version  a| image:{uri-icon}/evol.svg[] a| {uri-jira}/BORD-1147[BORD-1147] a| {uri-pr}/556[PR 556]
+a| 09/01/19 a| Hotfix: Fix launcher  a| image:{uri-icon}/hotfix.svg[] a| Not a jira  a| Not a PR
+a| 26/12/18 a| Task: add documentation  a| image:{uri-icon}/task.svg[] a| {uri-jira}/BORD-11[BORD-11]  a| {uri-pr}/55[PR 55]
+a| 26/12/18 a| Init of the new dev cycle  a| image:{uri-icon}/conf.svg[] a| Not a jira  a| Not a PR
+|===
+
+
+== link:{uri-version}1.17.10[Version 1.17.10]
+[{OPTION}]
+|===
+a|Date a| Commentaire a| Type a| Ticket a| PR
+
+a| 24/12/18 a| Feature: Add new launcher a| image:{uri-icon}/feature.svg[] a| {uri-jira}/BORD-114[BORD-114]  a| {uri-pr}/56[PR 56]
+a| 24/12/18 a| Init of the new dev cycle a| image:{uri-icon}/conf.svg[] a| Not a jira  a| Not a PR
+|===

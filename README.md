@@ -5,6 +5,8 @@ This tools provide different things to be more efficient & accurate on a release
 
 This package is used with Jenkins ver. 2.150.1 (optional) Atlassian Bitbucket v5.16.0 (can be replaced with any repository hosting service who provide webhooks).
 
+You need to create manually the first tag.
+
 The process is to follow thoses steps:
 
 Create a hook on the "eventKey":"repo:refs_changed" (Atlassian Bitbucket v5.16.0) and parse the json to get `\$.changes.[0].fromHash`
@@ -28,6 +30,6 @@ if this value match
   
   This si an example of how it's look like.
   
-  https://github.com/Tocard/changelog_builder/blob/master/changelog.adoc
+  https://github.com/Tocard/changelog_builder/blob/master/changelog_master/changelog.adoc
   
   

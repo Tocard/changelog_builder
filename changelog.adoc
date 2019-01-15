@@ -1,6 +1,6 @@
 :uri-pr: https://github.com/Tocard/changelog_builder/pulls
 :uri-jira: https://jira/browse/
-:uri-icon:https://github.com/Tocard/changelog_builder/logo_jira/raw
+:uri-icon: https://github.com/Tocard/changelog_builder/raw
 :uri-version: https://github.com/Tocard/changelog_builder/browse?at=refs%2Ftags%2F
 :OPTION: options='header', width="100%, cols='^m,^m,^m,^m,^'"
 = Changelog
